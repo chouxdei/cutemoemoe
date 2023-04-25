@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Happy Birthday!</h1>
+      <img src="birthday-cake.jpg" alt="Birthday Cake">
+      <p>Today is a very special day, and we want to wish you the happiest of birthdays! May your day be filled with love, laughter, and joy.</p>
+      <p>Enjoy your special day and all the amazing things it has in store for you. Cheers to another year of making unforgettable memories!</p>
+    </div>
+  </body>
+</html>
